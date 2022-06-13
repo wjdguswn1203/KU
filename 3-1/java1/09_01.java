@@ -1,7 +1,7 @@
 import java.util.Random;
 
 // 주사위 굴리기 모의실험 : 주사위 6000번 돌리고 각 숫자 몇 번 발생하는 지 출력
-public class 09_01 {
+public class java09_01 {
 	
 	public static void main (String[] args ) {
 		Random randomnum = new Random();
